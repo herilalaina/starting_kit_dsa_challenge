@@ -1,0 +1,6 @@
+sample_data/*
+utilities/*
+.ipynb_checkpoints/
+*.zip
+scoring_output/
+sample_result_submission/
