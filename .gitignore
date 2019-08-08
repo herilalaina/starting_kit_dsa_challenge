@@ -5,3 +5,6 @@ utilities/*
 scoring_output/
 sample_result_submission/
 *.pyc
+*.zip
+
+
