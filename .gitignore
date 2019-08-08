@@ -7,4 +7,4 @@ sample_result_submission/
 *.pyc
 *.zip
 *.pickle
-
+*/__pycache__*/
